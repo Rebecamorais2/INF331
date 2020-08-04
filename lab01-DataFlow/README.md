@@ -10,4 +10,22 @@
 ![Regras de Associação do projeto FoodMart](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/AssociationRulesFoodMart.PNG)
 
 ## Arquivo do Projeto
-![Arquivo do projeto FoodMart](https://github.com/Rebecamorais2/INF331/tree/master/lab01-DataFlow/orange)
+* [Arquivo do projeto FoodMart](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/orange/foodmart.ows)
+
+# Projeto Orange / Análise de Dados do Google PlayStore
+
+## Imagem do Projeto
+
+![Projeto GooglePlayStore](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/Componentes_GooglePlayStore.PNG)
+
+## Arquivo do Projeto
+
+* [Arquivo do projeto GooglePlayStore](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/orange/googlePlayStore.ows)
+
+## Gráfico(s) de Análise
+
+### Instalação por categoria 
+![Projeto GooglePlayStore Instalação por categoria](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/Grafico_Instalacao_Por_Categoria.PNG)
+
+### Avaliação por categoria 
+![Projeto GooglePlayStore Avaliação por categoria ](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/Grafico_avaliacao_categoria.PNG)
