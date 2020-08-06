@@ -29,3 +29,17 @@
 
 ### Avaliação por categoria 
 ![Projeto GooglePlayStore Avaliação por categoria ](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/Grafico_avaliacao_categoria.PNG)
+
+## Projeto de Composição de Componentes para Recomendação
+![Projeto de Composição de Componentes para Recomendação](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/Recomendacao.png)
+
+
+## Projeto de Composição de Componentes para Pedido
+
+### Diagrama de Componentes
+![Diagrama de Componentes](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/atividade_4_Pedidos.png)
+
+### Diagrama de Interfaces
+![Diagrama de Interfaces](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/Interfaces.png)
+
+
