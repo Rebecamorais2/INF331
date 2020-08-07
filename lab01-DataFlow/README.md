@@ -40,6 +40,6 @@
 ![Diagrama de Componentes](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/atividade_4_Pedidos.png)
 
 ### Diagrama de Interfaces
-![Diagrama de Interfaces](https://github.com/Rebecamorais2/INF331/blob/master/lab01-DataFlow/images/Interfaces.png)
+![Diagrama de Interfaces](https://github.com/Rebecamorais2/INF331/blob/5e40adf5de559690b8b2dfd352b7b9a1d8aff888/lab01-DataFlow/images/Interfaces.png)
 
 
