@@ -72,7 +72,7 @@ Coloque um link para o arquivo do notebook com a resolução das seis tarefas. E
 
 <dcc-lively-talk duration="0s"
                  character="nurse">
-    <subscribe-dcc topic = "aggregate/science"/>
+    <subscribe-dcc topic = "rss/science"/>
 </dcc-lively-talk>
 
 <dcc-lively-talk duration="0s"
