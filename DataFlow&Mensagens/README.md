@@ -1,7 +1,7 @@
 ## Modelo para Apresentação do Lab02 - Data Flow & Mensagens
 
 ### Tarefa sobre catálogo de componentes
-Coloque um link para o arquivo do notebook com a resolução das seis tarefas. Ele estará dentro da pasta notebook.
+* [arquivo do notebook com a resolução das seis tarefas](https://github.com/Rebecamorais2/INF331/blob/master/DataFlow%26Mensagens/notebook/lab2_part1.ipynb)
 
 ### Tarefa Web Components 1
 
