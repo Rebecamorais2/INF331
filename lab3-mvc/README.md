@@ -6,6 +6,6 @@
 
 ### Tarefa 2
 
-![Diagrama de componentes que se comunicam por mensagem]()
+![Diagrama de componentes que se comunicam por mensagem](https://github.com/Rebecamorais2/INF331/blob/master/lab3-mvc/images/Leilao.PNG)
 
 ### Tarefa 3
