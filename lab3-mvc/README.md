@@ -30,4 +30,5 @@
 ![Executando ação comprar ](https://github.com/Rebecamorais2/INF331/blob/master/lab3-mvc/images/telaDetalhesCOMmensagemNoDevice.png)
 
 ### APP
-![Download app](https://github.com/Rebecamorais2/INF331/blob/master/lab3-mvc/aia/tarefa3.aia)
+
+* Download app(https://github.com/Rebecamorais2/INF331/blob/master/lab3-mvc/aia/tarefa3.aia)
