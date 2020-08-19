@@ -28,3 +28,6 @@
 
 ##### Tela de detalhes do produto - App executado no smartphone Android ( executando a ação comprar)
 ![Executando ação comprar ](https://github.com/Rebecamorais2/INF331/blob/master/lab3-mvc/images/telaDetalhesCOMmensagemNoDevice.png)
+
+### APP
+![Download app](https://github.com/Rebecamorais2/INF331/blob/master/lab3-mvc/aia/tarefa3.aia)
