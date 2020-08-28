@@ -13,7 +13,7 @@
 
 ### Tarefa 4
 
-#### Serviço <Spotify>
+#### Serviço 1
 
 * **Título do serviço:** Spotify
   
@@ -114,3 +114,99 @@ x-robots-tag: noindex, nofollow
 }
 }
 ~~~~
+
+#### Serviço 2
+
+* **Título do serviço:** Healthcare
+  
+* **Breve descrição:** O Serviço recebe um tipo de retorno e um nome de um estado dos EUA e retorna informações sobre como funciona o sistema de saúde no estado
+
+
+* **URL completa da requisição:** https://any-api.com:8443/https://www.healthcare.gov/Nevada.json
+  
+* **Cabeçalho HTTP da chamada:**
+~~~http
+:authority: any-api.com:8443
+:method: GET
+:path: /https://www.healthcare.gov/Nevada.json
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cache-control: no-cache
+origin: https://any-api.com
+pragma: no-cache
+referer: https://any-api.com/healthcare_gov/healthcare_gov/console/_stateName_mediaTypeExtension_/GET
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-site
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+~~~ 
+
+* **Cabeçalho HTTP da resposta:**
+~~~http
+access-control-allow-origin: *
+access-control-expose-headers: accept-ranges,etag,last-modified,vary,content-encoding,date,content-length,connection,strict-transport-security,content-type,x-xss-protection,x-permitted-cross-domain-policies,x-frame-options,x-final-url,access-control-allow-origin
+cf-cache-status: DYNAMIC
+cf-ray: 5ca0157d8d74eebe-GRU
+cf-request-id: 04d7ebc2790000eebe6692a200000001
+content-encoding: br
+content-type: application/json
+date: Fri, 28 Aug 2020 18:27:01 GMT
+etag: W/"3658cc0b86ca1e12187a63fdda94095f:1580425900"
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+last-modified: Thu, 30 Jan 2020 23:11:40 GMT
+server: cloudflare
+set-cookie: __cfduid=d347d499e8c804643487051019f39ab5e1598639221; expires=Sun, 27-Sep-20 18:27:01 GMT; path=/; domain=.any-api.com; HttpOnly; SameSite=Lax
+status: 200
+strict-transport-security: max-age=31536000 ; preload
+vary: Accept-Encoding
+x-final-url: https://www.healthcare.gov/Nevada.json
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: master-only
+x-request-url: https://www.healthcare.gov/Nevada.json
+x-xss-protection: 1; mode=block
+~~~
+* **Conteúdo da resposta:**
+~~~JSON
+{
+  "draft": false,
+  "categories": [],
+  "experience": "learn",
+  "type": "state",
+  "lang": "en",
+  "tags": [
+    "state"
+  ],
+  "dropdown": {
+    "smb": {
+      "apply": {
+        "txt": [
+          "LEARN MORE NOW"
+        ],
+        "url": [
+          "/small-businesses/provide-shop-coverage/"
+        ]
+      }
+    },
+    "emp": {
+      "apply": {
+        "txt": [
+          "LEARN MORE"
+        ],
+        "url": [
+          "/small-businesses/employees-shop/overview/"
+        ]
+      }
+    }
+  },
+  "date": "0001-01-31 23:59:56 -0456",
+  "title": "Nevada",
+  "slug": "nevada",
+  "ext": ".md",
+  "excerpt": "<h3>Consumer Assistance in Nevada</h3>\n\n<p>The Nevada Consumer Assistance Program is run by the Nevada Governor’s Office for Consumer Health Assistance (GovCHA) in partnership with four non-profit groups: Access to Health Care Network (AHN), Rebuilding All Goals Efficiently (RAGE), State Health Insurance Assistance Program (SHIP), and Salud en Accion (SEA). Staff can answer questions about health insurance regulations, rights, and responsibilities. They can help you file a complaint or appeal a health plan decision. <a href=\"http://dhhs.nv.gov/CHA.htm\">Get consumer help with a problem or question</a>.</p>\n\n<h3>Medicaid in Nevada</h3>\n\n<p>You can apply for Medicaid in Nevada by <a href=\"https://dwss.nv.gov/\">contacting your state Medicaid agency</a>.</p>\n\n<h3>SHOP Health Insurance Marketplace in Nevada</h3>\n\n<h3>SHOP Health Insurance Marketplace for Employees in Nevada</h3>\n\n<h3>Health Insurance Marketplace in Nevada</h3>\n\n<p>If you live in Nevada, you’ll use the Nevada Health Link website to enroll in health coverage.</p>\n\n<h3>CHIP in Nevada</h3>\n\n<p>Nevada Check Up covers uninsured children in families with moderate incomes that are too high to qualify for Medicaid. You can find out whether your children qualify for Nevada Check Up right now. <a href=\"https://www.healthcare.gov/marketplace/individual/\">Fill out a Marketplace application</a> and find out whether your children qualify. <a href=\"https://dwss.nv.gov/\">Learn more about Nevada Check Up</a>.</p>\n",
+  "url": "/nevada/",
+  "content": "<h3>Consumer Assistance in Nevada</h3>\n\n<p>The Nevada Consumer Assistance Program is run by the Nevada Governor’s Office for Consumer Health Assistance (GovCHA) in partnership with four non-profit groups: Access to Health Care Network (AHN), Rebuilding All Goals Efficiently (RAGE), State Health Insurance Assistance Program (SHIP), and Salud en Accion (SEA). Staff can answer questions about health insurance regulations, rights, and responsibilities. They can help you file a complaint or appeal a health plan decision. <a href=\"http://dhhs.nv.gov/CHA.htm\">Get consumer help with a problem or question</a>.</p>\n\n<h3>Medicaid in Nevada</h3>\n\n<p>You can apply for Medicaid in Nevada by <a href=\"https://dwss.nv.gov/\">contacting your state Medicaid agency</a>.</p>\n\n<h3>SHOP Health Insurance Marketplace in Nevada</h3>\n\n<h3>SHOP Health Insurance Marketplace for Employees in Nevada</h3>\n\n<h3>Health Insurance Marketplace in Nevada</h3>\n\n<p>If you live in Nevada, you’ll use the Nevada Health Link website to enroll in health coverage.</p>\n\n<h3>CHIP in Nevada</h3>\n\n<p>Nevada Check Up covers uninsured children in families with moderate incomes that are too high to qualify for Medicaid. You can find out whether your children qualify for Nevada Check Up right now. <a href=\"https://www.healthcare.gov/marketplace/individual/\">Fill out a Marketplace application</a> and find out whether your children qualify. <a href=\"https://dwss.nv.gov/\">Learn more about Nevada Check Up</a>.</p>\n",
+  "sort": 0
+}
+~~~
