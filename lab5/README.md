@@ -2,7 +2,7 @@
 ## Modelo para Apresentação do Lab05 - Subcomponentes e Páginas Dinâmicas
 
 ### Tarefa 1
-
+![componentes](https://github.com/Rebecamorais2/INF331/blob/master/lab5/images/Model-View-Control-%20Pedido.PNG)
 ### Tarefa 2
 
 #### HTML
